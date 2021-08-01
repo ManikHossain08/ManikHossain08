@@ -1,4 +1,4 @@
-### Hi there, This is Manik Hossain 👋
+### Hi there, this is Manik Hossain 👋
 
 
 - 🔭 I’m currently working on bigdata platform and software engineering domain as a Software Data Engineer at Mediaoptimise (Montreal, Quebec, Canada)

@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on bigdata latest tools and technologies as a Data Engineer at YoppWorks Inc., Toronto, Ontario, Canada
-- 🌱 I am also learning some other orchestration tools such as Apache Airflow, docker and Kubernetes and Clouds Services (AWS, GCP and Azure) as well. 
+- 🌱 I am also learning DataBricks, Clouds Services (AWS, GCP and Azure)  and some other orchestration tools such as Apache Airflow, docker and Kubernetes as well. 
 - 🌱 Machine Learning and Data Science enthusiastic, trying to learn something new everyday. 
 
 - 📫 How to reach me: please email me at my email: manik.ruet08@gmail.com

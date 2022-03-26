@@ -1,7 +1,7 @@
 ### Hi there, this is Manik Hossain 👋
 
 
-- 🔭 I’m currently working on bigdata latest tools and technologies as a Data Engineer at YoppWorks Inc., Toronto, Ontario, Canada
+- 🔭 I’m currently working on bigdata latest tools and technologies as a Data Engineer at Bell, Toronto Ontario, Canada
 - 🌱 I am also learning DataBricks, Clouds Services (AWS, GCP and Azure)  and some other orchestration tools such as Apache Airflow, docker and Kubernetes as well. 
 - 🌱 Machine Learning and Data Science enthusiastic, trying to learn something new everyday. 
 

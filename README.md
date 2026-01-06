@@ -5,7 +5,7 @@
 - 🌱 I am also working on tools like dbt, snowflakes, DataBricks, Clouds Services (AWS, GCP and Azure)  and some other orchestration tools such as Apache Airflow, docker and Kubernetes as well. 
 - 🌱 Machine Learning and Data Science enthusiastic, trying to learn something new everyday. 
 
-- 📫 How to reach me: please email me at my email: manik.ruet08@gmail.com
+- 📫 How to reach me: please email me at my email: manik.concordia@gmail.com
 
 [![Maniks's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManikHossain08)](https://github.com/ManikHossain08/github-readme-stats)
 
